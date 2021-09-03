@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How_to_Drag_and_Drop_Between_GridControl_and_ListBoxEdit", "How_to_Drag_and_Drop_Between_GridControl_and_ListBoxEdit.csproj", "{B3956CD4-32AA-456F-A78A-1BF6101C6D11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How_to_Drag_and_Drop_Between_GridControl_and_ListBoxEdit", "How_to_Drag_and_Drop_Between_GridControl_and_ListBoxEdit.Net5.csproj", "{B3956CD4-32AA-456F-A78A-1BF6101C6D11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
