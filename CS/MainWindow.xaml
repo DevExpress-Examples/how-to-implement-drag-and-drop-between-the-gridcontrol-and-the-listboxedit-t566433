@@ -1,23 +1,17 @@
 <Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" 
-        xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core" 
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
-        xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"
-        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" 
         x:Class="How_to_Drag_and_Drop_Between_GridControl_and_ListBoxEdit.MainWindow"
-        Title="MainWindow" Height="350" Width="550">
+        Title="MainWindow" Height="350" Width="650">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition Width="200"/>
         </Grid.ColumnDefinitions>
 
-        <dxg:GridControl Name="gridControl">            
-            <dxg:GridColumn FieldName="ID" ReadOnly="True"/>
-            <dxg:GridColumn FieldName="Name" ReadOnly="True"/>
-            <dxg:GridColumn FieldName="Department" ReadOnly="True"/>
-            <dxg:GridColumn FieldName="Position" ReadOnly="True"/>
+        <dxg:GridControl Name="gridControl" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True">
             <dxg:GridControl.View>
                 <dxg:TableView AutoWidth="True" AllowDragDrop="True" DragRecordOver="OnDragRecordOver" />
             </dxg:GridControl.View>
