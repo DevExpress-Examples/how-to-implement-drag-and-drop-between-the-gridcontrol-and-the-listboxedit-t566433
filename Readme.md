@@ -3,17 +3,29 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T566433)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
+
+# WPF Data Grid - Implement Drag-and-Drop Between the GridControl and the ListBoxEdit
+
+The [GridControl](http://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) allows dragging records and dropping them in external controls. This example demonstrates how to implement drag-and-drop between the [GridControl](http://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) and the [ListBoxEdit](http://docs.devexpress.com/WPF/DevExpress.Xpf.Editors.ListBoxEdit).
+
+![](http://docs.devexpress.com/WPF/images/dragdropbetweengridcontrolandlistbox130989.gif)
+
 <!-- default file list -->
-*Files to look at*:
+
+## Files to Look At
 
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+
 <!-- default file list end -->
-# How to implement drag-and-drop between the GridControl and the ListBoxEdit
 
+## Documentation
 
-The <a href="https://documentation.devexpress.com/WPF/6084/Controls-and-Libraries/Data-Grid">GridControl</a> allows dragging records and dropping them in external controls. This example demonstrates how to implement drag-and-drop between the <strong>GridControl</strong> and the <a href="https://documentation.devexpress.com/WPF/7916/Controls-and-Libraries/Data-Editors/Editor-Types/ListBoxEdit">ListBoxEdit</a>.<br><br>Refer to the <a href="https://documentation.devexpress.com/WPF/119301/Controls-and-Libraries/Data-Grid/Drag-and-Drop/Drag-and-Drop-Between-GridControl-and-ListBoxEdit">Drag-and-Drop Between GridControl and ListBoxEdit</a> document to learn more.
+* [Drag-and-Drop Between GridControl and ListBoxEdit](http://docs.devexpress.com/WPF/119301/controls-and-libraries/data-grid/drag-and-drop/process-drag-and-drop/drag-and-drop-between-gridcontrol-and-listboxedit)
+* [Process Drag-and-Drop Operations](http://docs.devexpress.com/WPF/400431/controls-and-libraries/data-grid/drag-and-drop/process-drag-and-drop-operations)
 
-<br/>
+## More Examples
 
-
+* [WPF Data Grid - Implement Drag-and-Drop Between GridControls](https://github.com/DevExpress-Examples/how-to-implement-drag-and-drop-between-gridcontrols-t566656)
+* [WPF Data Grid - Implement Drag-and-Drop Between the GridControl and Other Controls](https://github.com/DevExpress-Examples/how-to-implement-drag-and-drop-between-the-gridcontrol-and-other-controls-t566741)
+* [WPF Data Grid - Manually Control Drag-and-Drop in the GridControl](https://github.com/DevExpress-Examples/how-to-manually-control-drag-and-drop-in-the-gridcontrol-e3921)
