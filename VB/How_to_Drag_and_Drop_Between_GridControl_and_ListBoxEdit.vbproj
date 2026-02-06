@@ -9,7 +9,8 @@
     <ProjectGuid>{B3956CD4-32AA-456F-A78A-1BF6101C6D11}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <AssemblyName>How_to_Drag_and_Drop_Between_GridControl_and_ListBoxEdit</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
