@@ -19,7 +19,7 @@ The <a href="https://documentation.devexpress.com/WPF/6084/Controls-and-Librari
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-implement-drag-and-drop-between-the-gridcontrol-and-the-listboxedit-t566433&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-implement-drag-and-drop-between-the-gridcontrol-and-the-listboxedit-t566433&~~~was_helpful=no)
 
